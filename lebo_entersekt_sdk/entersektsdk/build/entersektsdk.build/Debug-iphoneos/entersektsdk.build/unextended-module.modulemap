@@ -1,0 +1,10 @@
+framework module entersektsdk {
+  umbrella header "entersektsdk.h"
+
+  export *
+  module * { export * }
+}
+
+module entersektsdk.__Swift {
+    exclude header "entersektsdk-Swift.h"
+}

@@ -1,0 +1,13 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [{
+    'type': 'directory',
+    'name': "/Users/lebo/Library/Developer/Xcode/DerivedData/entersektsdk-cwwouokcokimgwgwayyedladssfm/Build/Products/Debug-iphoneos/entersektsdk.framework/Modules"
+    'contents': [{
+      'type': 'file',
+      'name': "module.modulemap",
+      'external-contents': "/Users/lebo/Desktop/lebo_entersekt_sdk/entersektsdk/build/entersektsdk.build/Debug-iphoneos/entersektsdk.build/unextended-module.modulemap",
+    }]
+  }]
+}

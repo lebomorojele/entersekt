@@ -1,0 +1,6 @@
+version: "Apple Swift version 5.1 (swiftlang-1100.0.270.13 clang-1100.0.33.7)"
+options: "842dcc4d57d96fc0295abe70395de693"
+build_time: [1569252116, 85215000]
+inputs:
+  "/Users/lebo/Desktop/lebo_entersekt_sdk/entersektsdk/entersektsdk/CMSHelper.swift": [1569190067, 333086623]
+  "/Users/lebo/Desktop/lebo_entersekt_sdk/entersektsdk/entersektsdk/Models.swift": [1569190006, 778166601]
